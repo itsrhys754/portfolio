@@ -36,7 +36,7 @@ const Portfolio: React.FC = () => {
         <main className="container mx-auto px-4 pt-20">
           <section className="py-20">
             <div className="max-w-3xl mx-auto text-center">
-              <h2 className="text-4xl font-bold mb-4">Hello, I'm Rhys Gregory</h2>
+              <h2 className="text-4xl font-bold mb-4">Hello, I&apos;m Rhys Gregory</h2>
               <p className="text-xl mb-8">A passionate web developer crafting beautiful and functional websites</p>
               <Button asChild>
                 <Link href="#projects">View My Work</Link>
